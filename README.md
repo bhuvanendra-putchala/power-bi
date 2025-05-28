@@ -51,31 +51,15 @@ Explore the insights gained from this project in detail:
 
 | Insight | Description |
 | --- | --- |
-| **Customer Behavior Analysis** | Understanding customer preferences, rental patterns, and demographics allows for targeted marketing campaigns and tailored content offerings to enhance customer satisfaction and loyalty. |
+| **Customer Behavior Analysis** | Understanding customer preferences, rental patterns, and demographics enables targeted marketing campaigns and tailored content offerings, ultimately enhancing customer satisfaction and loyalty. |
 | **Film Performance Evaluation** | Analyzing film inventory, rental rates, and popularity unveils which films drive revenue and customer engagement, guiding decisions on content acquisition and inventory management. |
-| **Staff Productivity Assessment** | Evaluating staff performance metrics and employment durations aids in optimizing workforce management strategies, ensuring efficient store operations and enhanced customer service. |
+| **Staff Productivity Assessment** | Evaluating staff performance metrics and employment durations helps optimize workforce management strategies, ensuring efficient store operations and enhanced customer service. |
 | **Revenue Trend Identification** | Recognizing revenue fluctuations, seasonal trends, and geographical disparities enables strategic decision-making to maximize revenue potential and drive business growth. |
 | **Market Expansion Opportunities** | Identifying top-performing countries, genres, and customer segments provides insights for targeted market development initiatives, facilitating expansion into lucrative markets and audience demographics. |
 | **Operational Optimization** | Leveraging data-driven insights enhances operational efficiency, inventory management, and customer service, leading to cost savings, improved resource allocation, and enhanced customer experiences. |
 | **Strategic Decision Support** | The project's findings offer a strategic roadmap for rental store owners, empowering them to make informed decisions that align with business goals, mitigate risks, and capitalize on growth opportunities in a dynamic market landscape. |
 
 ---
-
-## Repository Actions
-
-[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel.git)
-[![Pull](https://img.shields.io/badge/Pull-From%20Repository-gold?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/pull)
-[![Push](https://img.shields.io/badge/Push-To%20Repository-brown?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/push)
-[![Issues](https://img.shields.io/badge/Create-Issues-red?style=flat-square&logo=github)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/issues)
-
-
----
-
-## Connect with Me
-
-Let's connect on LinkedIn for further discussions and collaborations:
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
 
 ---
